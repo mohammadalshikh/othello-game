@@ -1,9 +1,3 @@
-## Program Description
-
-
-This Othello game is a Java variant of original Othello and has some minor modifications on the game rules. It offers a different starting position from the default one and some positions on the board are unplayable.
-
-
 ## Features
 
 >- 2 players
